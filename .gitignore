@@ -17,3 +17,7 @@ venv
 # Other files
 *.docx
 *.doc
+*.puml
+
+# Hidden tests
+*tests/
